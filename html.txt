@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+
+    <read>
+        <title>Site</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+
+
+        <header style="background: rgb(241, 136, 66);">
+            <h1 style="color: black; font-size: 50px; padding: 30px; text-align: center;">SAÚDE ANIMAL</h1>
+        </header>
+        <main>
+            <h2>Hábitos saudáveis com seu animal de estimação</h2>
+            <img src="feliz.jpg" style="width:800px";>
+        <ul>
+        <h2> Cuidados Básicos:</h2>
+        <li> Banhos  semanais;</li>
+        <li> Regule o sono de seu pet;</li>
+        <li> Massageie e brinque com seu animal;</li>
+        <li> Ofereça apenas alimentos que tragam benefícios ao seu pet;</li>
+        <li> Adestre seu cão.</li>
+        </ul>
+        </main>
+        <footer style="background: rgb(231, 165, 121); padding: 20px; color: black; font-size: 30px;">By Lohaine</footer>
+    </body>
+</html>

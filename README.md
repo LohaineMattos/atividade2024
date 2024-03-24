@@ -18,7 +18,7 @@
 |MarkDown|Linguagem de formatação de texto Web|
 
 ```c
-Exposição de códigos para uma programação em lingugem C
+Exposição de códigos para uma programação em linguagem C
 ```
 
 ```html
